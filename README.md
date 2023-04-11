@@ -1,4 +1,4 @@
-### Olá!  Eu sou o Eduardo Eufrasio  Junior
+### 👋 Olá!  Eu sou o Eduardo Eufrasio  Junior
 
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoeufrasio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
